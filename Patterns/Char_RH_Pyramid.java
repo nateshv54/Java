@@ -33,3 +33,22 @@ public class Char_RH_Pyramid {
 	}
 
 }
+/*   Output:-
+ 
+Enter no.of rows: 
+6
+A
+AB
+ABC
+ABCD
+ABCDE
+ABCDEF
+
+
+A 
+B C 
+D E F 
+G H I J 
+K L M N O 
+P Q R S T U
+*/

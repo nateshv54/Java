@@ -17,6 +17,7 @@
 
 ### Level2
 - [Butterfly Star Pattern](https://github.com/nateshv54/Java/blob/main/Patterns/Butterfly_star.java)
+- [Hollow Hourglass](https://github.com/nateshv54/Java/blob/main/Patterns/Hollow_Hourglass.java)
 - [Diamond Star pattern](https://github.com/nateshv54/Java/blob/main/Patterns/Diamond_star.java)
 - [Palindrome](https://github.com/nateshv54/Java/blob/main/Patterns/Palindrome.java)
 - [Hollow Diamond](https://github.com/nateshv54/Java/blob/main/Patterns/Hollow_Diamond.java)
